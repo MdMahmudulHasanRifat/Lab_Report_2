@@ -21,4 +21,7 @@ This project demonstrates a full implementation of the **K-Nearest Neighbors (KN
 ---
 
 ## 🗂️ Project Structure
-
+✅ **Author**: Md Mahmudul Hasan Rifat
+🆔 **Student ID**: 222002048 
+📘 **Course**: CSE312 - Section 222D3  
+📝 **Lab Report 02**
